@@ -4,7 +4,7 @@ An interactive financial analytics dashboard for exploring NVIDIA (NVDA) stock p
 
 Built with Python, Streamlit, Plotly, and Yahoo Finance.
 
-## 🚀 Live Demo
+## Live Demo
 
 [**View the Live NVIDIA Stock Analytics Dashboard**](https://nvidia-stock-analysis-b7487d9k8jajcdj7xbey7z.streamlit.app/)
 
